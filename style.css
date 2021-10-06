@@ -1,14 +1,18 @@
 img{
     width:100%;
     height: auto;
+    border: 1px solid rgb(175, 173, 173);
+    border-radius:20px;
 }
 .img{
     height: auto;
-    border: 3px solid rgb(98, 86, 86);
+    border: 3px solid rgb(175, 173, 173);
+    background: linear-gradient(to right, #ee0979, #ff6a00);
     border-radius:20px;
 }
 .main{
-    border: 5px solid rgb(98, 86, 86);
+    border: 5px solid rgb(182, 182, 182);
+    background: linear-gradient(to right, #4278aa, #9c3851);
     border-radius:20px;
 }
 .form-outline{
