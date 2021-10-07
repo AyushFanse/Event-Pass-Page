@@ -18,3 +18,9 @@ img{
 .form-outline{
     width: 100%;
 }
+body{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+h2,h5{
+    color: #fff;
+}
