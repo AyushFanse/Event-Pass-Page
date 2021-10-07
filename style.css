@@ -24,3 +24,16 @@ body{
 h2,h5{
     color: #fff;
 }
+.w3-bar-item,.w3-sidebar{
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: #fff;
+}
+#close{
+    background: linear-gradient(to right, #cb356b, #bd3f32);
+    color: #fff;
+}
+#open{
+    /* background: rgb(255,255,255); */
+background: linear-gradient(0deg, rgba(255, 255, 255, 0) 100%);
+    color: #fff;
+}
